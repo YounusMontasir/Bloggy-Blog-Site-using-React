@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Exploring the Unknown",
+        "author_avatar_img": "https://randomuser.me/api/portraits/women/1.jpg",
+        "author_name": "Alice Johnson",
+        "posted_date": "2024-10-01",
+        "reading_time": "5",
+        "hashtags": ["#Adventure", "#Exploration", "#Travel"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://images.unsplash.com/photo-1720048169707-a32d6dfca0b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Mastering Home Cooking",
+        "author_avatar_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "author_name": "Bob Smith",
+        "posted_date": "2024-10-05",
+        "reading_time": "8",
+        "hashtags": ["#Cooking", "#Recipes", "#HomeChef"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a",
+        "title": "The Future of Technology",
+        "author_avatar_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "author_name": "Charlie Brown",
+        "posted_date": "2024-10-10",
+        "reading_time": "6",
+        "hashtags": ["#Technology", "#Future", "#Innovation"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://plus.unsplash.com/premium_photo-1729431432391-673fb2b5750f?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "The Art of Mindfulness",
+        "author_avatar_img": "https://randomuser.me/api/portraits/men/2.jpg",
+        "author_name": "Diana Prince",
+        "posted_date": "2024-10-12",
+        "reading_time": "4",
+        "hashtags": ["#Mindfulness", "#Wellbeing", "#Meditation"]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://images.unsplash.com/photo-1729582017869-a0c84b5c91b5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_avatar_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "author_name": "Ethan Hunt",
+        "posted_date": "2024-10-15",
+        "reading_time": "7",
+        "hashtags": ["#Space", "#Science", "#Exploration"]
+    },
+    {
+        "id": 6,
+        "cover_img": "https://plus.unsplash.com/premium_photo-1728035716169-d0986b6bbfcf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Quick Fitness Hacks for Busy Schedules",
+        "author_avatar_img": "https://randomuser.me/api/portraits/men/3.jpg",
+        "author_name": "Fiona Lee",
+        "posted_date": "2024-10-18",
+        "reading_time": "5",
+        "hashtags": ["#Fitness", "#Health", "#Wellness"]
+    },
+    {
+        "id": 7,
+        "cover_img": "https://images.unsplash.com/photo-1727086758481-ed433209dc09?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "The Ancient World Rediscovered",
+        "author_avatar_img": "https://randomuser.me/api/portraits/women/4.jpg",
+        "author_name": "George Lucas",
+        "posted_date": "2024-10-20",
+        "reading_time": "9",
+        "hashtags": ["#History", "#AncientCivilizations", "#Archaeology"]
+    },
+    {
+        "id": 8,
+        "cover_img": "https://images.unsplash.com/photo-1728238189205-f54befcda8e8?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "How to Start Your First Garden",
+        "author_avatar_img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "author_name": "Hannah Montana",
+        "posted_date": "2024-10-22",
+        "reading_time": "6",
+        "hashtags": ["#Gardening", "#DIY", "#Nature"]
+    },
+    {
+        "id": 9,
+        "cover_img": "https://images.unsplash.com/photo-1728632286888-04c64f48e506?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "A Guide to Mental Health Awareness",
+        "author_avatar_img": "https://randomuser.me/api/portraits/women/5.jpg",
+        "author_name": "Isaac Newton",
+        "posted_date": "2024-10-24",
+        "reading_time": "8",
+        "hashtags": ["#MentalHealth", "#Awareness", "#Support"]
+    },
+    {
+        "id": 10,
+        "cover_img": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "title": "A Beginner's Guide to Anime Culture",
+        "author_avatar_img": "https://randomuser.me/api/portraits/men/5.jpg",
+        "author_name": "Jessica Rabbit",
+        "posted_date": "2024-10-25",
+        "reading_time": "5",
+        "hashtags": ["#Anime", "#Culture", "#Entertainment"]
+    }
+]
