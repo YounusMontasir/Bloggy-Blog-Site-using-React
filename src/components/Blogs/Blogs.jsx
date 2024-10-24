@@ -10,7 +10,7 @@ const Blogs = ({handleBookMarks, handleMarkAsRead}) => {
         .then(data =>setBlogs(data))
     },[])
     return (
-        <div className="col-span-2">
+        <div className="col-span-2 order-2 md:order-2 lg:order-1">
             <h1 className="text-3xl font-bold mb-6">Total Blogs : {blogs.length}</h1>
             {
                 blogs.map(blog => <Blog 
